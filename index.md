@@ -13,7 +13,7 @@
 
 ---
 [Predicting Film Ratings with Machine Learning](http://example.com/)
-<img src="movies_ss.jpg?raw=true"/>
+<img src="images/movies_ss.jpg?raw=true"/>
 
 ---
 
