@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Hotel Booking Trends Dashboard](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[PowerBI Project](/pdf/sample_presentation.pdf)
+[PowerBI Sales Dashboard](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
