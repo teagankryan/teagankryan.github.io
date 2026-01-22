@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Hotel Booking Trends Dashboard](/sample_page)
+[Tableau Hotel Booking Trends Dashboard](/sample_page)
 <img src="images/Hotel_Screenshot.jpg?raw=true"/>
 
 ---
