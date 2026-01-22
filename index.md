@@ -5,7 +5,7 @@
 ### Projects
 
 [Hotel Booking Trends Dashboard](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Hotel_Screenshot.jpg?raw=true"/>
 
 ---
 [PowerBI Sales Dashboard](/pdf/sample_presentation.pdf)
